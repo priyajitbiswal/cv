@@ -14,10 +14,11 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 ## Education
 
-**B.Tech in Computer Science (Specialization: Internet of Things)**<br>
-**Shiv Nadar University**<br>
-**CGPA**: 8.67<br>
-**Courses**: Object Oriented Programming, Database Management Systems, Operating System, Computer Architecture, Data Structures, Software Engineering, IoT Systems
+**Shiv Nadar University**
+
+- **B.Tech in Computer Science (Specialization: Internet of Things)**
+- **CGPA**: 8.67<br>
+- **Courses**: Object Oriented Programming, Database Management Systems, Operating System, Computer Architecture, Data Structures, Software Engineering, IoT Systems
 
 ---
 
@@ -64,8 +65,8 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 ## Technical Skills
 
-**Languages**: C, C++, Python, Java, SQL, HTML, CSS, JavaScript<br>
-**Developer Tools**: Git, Azure, Postman, Gradle<br>
-**Frameworks**: Flask, ReactJS, NodeJS, Spring Boot<br>
+- **Languages**: C, C++, Python, Java, SQL, HTML, CSS, JavaScript
+- **Developer Tools**: Git, Azure, Postman, Gradle
+- **Frameworks**: Flask, ReactJS, NodeJS, Spring Boot
 
 ---
