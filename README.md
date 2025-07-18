@@ -1,14 +1,8 @@
 # Priyajit Biswal
 
-Computer Science undergraduate at Shiv Nadar University with strong software development skills in Python, Java, and full-stack web technologies.
+Computer Science undergraduate at Shiv Nadar University with strong software development skills in Python, Java, and full-stack web technologies. Actively participates in hackathons and tech communities. Experienced in building scalable applications and identifying real-world security flaws, including one reported and fixed on Devfolio.
 
 [Email](mailto:priyajitbiswal010@gmail.com) / [LinkedIn](https://www.linkedin.com/in/priyajit-biswal) / [GitHub](https://github.com/priyajitbiswal)
-
----
-
-## Profile
-
-Computer Science undergraduate at Shiv Nadar University with strong software development skills in Python, Java, and full-stack web technologies. Certified in Google Cybersecurity, Azure AI, and Oracle Generative AI. Actively participates in hackathons and tech communities. Experienced in building scalable applications and identifying real-world security flaws, including one reported and fixed on Devfolio.
 
 ---
 
