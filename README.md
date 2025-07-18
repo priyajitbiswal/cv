@@ -11,7 +11,7 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 **Shiv Nadar University Chennai**
 
 - **B.Tech in Computer Science (Specialization: Internet of Things)**
-- **CGPA**: 8.67<br>
+- **CGPA**: 8.67
 - **Courses**: Object Oriented Programming, Database Management Systems, Operating System, Computer Architecture, Data Structures, Software Engineering, IoT Systems
 
 ---
