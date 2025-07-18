@@ -14,7 +14,7 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 ## Education
 
-**Shiv Nadar University**
+**Shiv Nadar University Chennai**
 
 - **B.Tech in Computer Science (Specialization: Internet of Things)**
 - **CGPA**: 8.67<br>
