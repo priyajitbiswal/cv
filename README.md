@@ -8,7 +8,7 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 ## Profile
 
-Computer Science undergraduate at Shiv Nadar University with strong software development skills in **Python**, **Java**, and **full-stack web technologies**. Certified in **Google Cybersecurity**, **Azure AI**, and **Oracle Generative AI**. Actively participates in **hackathons** and **tech communities**. Experienced in building scalable applications and identifying real-world **security flaws**, including one reported and fixed on Devfolio.
+Computer Science undergraduate at Shiv Nadar University with strong software development skills in Python, Java, and full-stack web technologies. Certified in Google Cybersecurity, Azure AI, and Oracle Generative AI. Actively participates in hackathons and tech communities. Experienced in building scalable applications and identifying real-world security flaws, including one reported and fixed on Devfolio.
 
 ---
 
