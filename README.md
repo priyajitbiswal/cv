@@ -35,10 +35,10 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 
 
-### RxTract: Medical Data Extractor  
-- **Tech:** Python, OCR, Flask  
-- Extracts patient and prescription details from noisy PDFs using OCR with adaptive preprocessing and regex parsing.  
-- Exposes structured medical data through a Flask REST API for integration with health informatics systems.
+### RxTract: Medical Data Extractor 
+- **Tech:** Python, FastAPI, Streamlit, Tesseract OCR
+- Extracted structured data from scanned prescriptions and patient records using Tesseract OCR with adaptive preprocessing and regex-based parsing.
+- Delivered AI-driven medical insights via a FastAPI REST service and an interactive Streamlit frontend for real-time healthcare document analysis.
 
 
 
