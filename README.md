@@ -36,9 +36,9 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 
 ### RxTract: Medical Data Extractor 
-- **Tech:** Python, FastAPI, Streamlit, Tesseract OCR
-- Extracted structured data from scanned prescriptions and patient records using Tesseract OCR with adaptive preprocessing and regex-based parsing.
-- Delivered AI-driven medical insights via a FastAPI REST service and an interactive Streamlit frontend for real-time healthcare document analysis.
+- **Tech:** Python, OCR, FastAPI, Streamlit
+- Extracts patient and prescription details from noisy PDFs using Tesseract OCR with adaptive preprocessing and rule-based parsing.
+- Serves AI-powered medical insights via a FastAPI API and interactive Streamlit frontend for clinical integration.
 
 
 
@@ -82,8 +82,8 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 ## Technical Skills
 
-- **Languages**: C, C++, Python, Java, SQL, HTML, CSS, JavaScript
-- **Developer Tools**: Git, Azure, Postman, Gradle
-- **Frameworks**: Flask, ReactJS, NodeJS, Spring Boot
+- **Languages**: Python, Java, C/C++, JavaScript, SQL, HTML/CSS  
+- **Frameworks and Tools**: FastAPI, Flask, Streamlit, ReactJS, Git, Postman, Arduino, Raspberry Pi  
+- **Technologies**: OCR, REST APIs, IoT Systems, Multithreading, Generative AI, Cloud (Azure, AWS)
 
 ---
