@@ -30,8 +30,8 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 ### RescuBot: Autonomous Rescue Rover  
 - **Tech:** IoT, Path Planning, Sensor Fusion  
-- Built a semi-autonomous rover equipped with GPS, IR sensors, and obstacle detection for search and rescue.  
-- Integrated real-time path planning, telemetry logging, and mission analytics for enhanced situational awareness.
+- Simulated an autonomous rescue rover with smart path planning, obstacle avoidance, and survivor detection using IR, ultrasonic, RFID, and accelerometer data.
+- Built a real-time dashboard to visualize rover state, path, battery, sensors, and survivor locations for mission analytics.
 
 
 
@@ -84,6 +84,6 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 - **Languages**: Python, Java, C/C++, JavaScript, SQL, HTML/CSS  
 - **Frameworks and Tools**: FastAPI, Flask, Streamlit, ReactJS, Git, Postman, Arduino, Raspberry Pi  
-- **Technologies**: OCR, REST APIs, IoT Systems, Multithreading, Generative AI, Cloud (Azure, AWS)
+- **Technologies**: OCR, REST APIs, IoT Systems, Generative AI, Cloud (Azure, AWS)
 
 ---
