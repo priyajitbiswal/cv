@@ -28,23 +28,23 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 
 ## Projects
 
-- **Medical Data Extraction** – _Python, OCR, Flask_
-  Extracts patient and prescription details from PDFs using OCR and a backend API.
+* **RoverX: Autonomous Rescue Rover** – *IoT, Path Planning, Sensor Fusion*
+  Built a semi-autonomous rover equipped with GPS, IR sensors, and obstacle detection for search and rescue. Integrated real-time path planning, telemetry logging, and mission analytics for enhanced situational awareness.
 
-- **YouTube Subtitle Speaker** – _JavaScript, Chrome Extension, TTS_
-  Speaks YouTube subtitles using text-to-speech with mute, playback sync, and speed control.
+* **MediScan: Medical Data Extractor** – *Python, OCR, Flask*
+  Extracts patient and prescription details from noisy PDFs using OCR with adaptive preprocessing and regex parsing. Exposes structured medical data through a Flask REST API for integration with health informatics systems.
 
-- **YouTube Content Generator** – _Python, Groq API_
-  Generates titles, thumbnails, scripts, and Twitter threads for YouTube video ideas.
+* **AquaWatch: Water Tank Monitor** – *ESP8266, Blynk, IoT*
+  Real-time water level monitoring using ultrasonic sensors and ESP8266 microcontroller. Sends alerts to mobile devices via Blynk app for early warnings in flood or tank scenarios.
 
-- **YouTube Manager CLI** – _Python, JSON, SQLite, MongoDB_
-  CLI tool to add, list, update, and delete YouTube videos with persistent storage options.
+* **SpeakTube: YouTube Subtitle Speaker** – *JavaScript, Chrome Extension, TTS*
+  Chrome extension that reads aloud YouTube subtitles using text-to-speech, with mute, sync, and playback speed controls. Designed for accessibility and multitasking use cases.
 
-- **Ticket Booking System** – _Java, Gradle, OOP_
-  Command-line system with login, train search, booking management, and data storage.
+* **AutoReel: YouTube Content Generator** – *Python, Groq API, AI*
+  AI-powered tool that generates video titles, scripts, thumbnail prompts, and viral Twitter threads from a topic. Assists content creators in end-to-end ideation and cross-platform expansion.
 
-- **Multi-threaded Client-Server Communication** – _Java, Sockets, ExecutorService_
-  Simulates real-time messaging between clients and server using multithreading.
+* **ThreadServe: Multithreaded Web Server** – *Java, Sockets, ExecutorService*
+  Implemented single-threaded, multithreaded, and thread pool-based servers to handle concurrent client requests. Benchmarked performance using JMeter and demonstrated modular architecture for scalability.
 
 ---
 
