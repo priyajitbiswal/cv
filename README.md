@@ -11,7 +11,7 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 **Shiv Nadar University Chennai**
 
 - **B.Tech in Computer Science (Specialization: Internet of Things)**
-- **CGPA**: 8.67
+- **CGPA**: 8.65
 - **Courses**: Object Oriented Programming, Database Management Systems, Operating System, Computer Architecture, Data Structures, Software Engineering, IoT Systems
 
 ---
@@ -66,7 +66,6 @@ Computer Science undergraduate at Shiv Nadar University with strong software dev
 ### ForkLift: Multithreaded Web Server  
 - **Tech:** Java, Sockets, ExecutorService  
 - Implemented single-threaded, multithreaded, and thread pool-based servers to handle concurrent client requests.  
-- Benchmarked performance using JMeter and demonstrated modular architecture for scalability.
 
 
 ---
