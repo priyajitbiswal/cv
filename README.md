@@ -1,88 +1,113 @@
 # Priyajit Biswal
 
-Computer Science undergraduate at Shiv Nadar University with strong software development skills in Python, and full-stack web technologies. Actively participates in hackathons and tech communities.
+Computer Science undergraduate at Shiv Nadar University Chennai with interests in artificial intelligence, distributed systems, IoT, cybersecurity, and edge computing. Experienced in developing machine learning pipelines, networking software, real-time collaborative applications, and embedded IoT systems.
 
-[Email](mailto:priyajitbiswal010@gmail.com) / [LinkedIn](https://www.linkedin.com/in/priyajit-biswal) / [GitHub](https://github.com/priyajitbiswal)
-
----
-
-## Education
-
-**Shiv Nadar University Chennai**
-
-- **B.Tech in Computer Science (Specialization: Internet of Things)**
-- **CGPA**: 8.65
-- **Courses**: Object Oriented Programming, Database Management Systems, Operating System, Computer Architecture, Data Structures, Software Engineering, IoT Systems
+**Email:** priyajitbiswal010@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/priyajit-biswal  
+**GitHub:** https://github.com/priyajitbiswal
 
 ---
 
-## Experience
+# Education
 
-**Security Bug Reporter** @ Devfolio _(Apr 2025 – May 2025)_
+## Shiv Nadar University Chennai (2023 – 2027)
 
-- Discovered a logic flaw in Devfolio’s password reset flow where mismatched passwords were accepted
-- Investigated client-server validation issues and reported with video and documentation
-- Contributed to a backend fix enhancing security and user experience
+**Bachelor of Technology in Computer Science (Specialization: Internet of Things)**
 
----
-
-## Projects
-
-### RescuBot: Autonomous Rescue Rover  
-- **Tech:** IoT, Path Planning, Sensor Fusion  
-- Simulated an autonomous rescue rover with smart path planning, obstacle avoidance, and survivor detection using IR, ultrasonic, RFID, and accelerometer data.
-- Built a real-time dashboard to visualize rover state, path, battery, sensors, and survivor locations for mission analytics.
-
-
-
-### RxTract: Medical Data Extractor 
-- **Tech:** Python, OCR, FastAPI, Streamlit
-- Extracts patient and prescription details from noisy PDFs using Tesseract OCR with adaptive preprocessing and rule-based parsing.
-- Serves AI-powered medical insights via a FastAPI API and interactive Streamlit frontend for clinical integration.
-
-
-
-### HydroPing: Water Tank Monitor  
-- **Tech:** ESP8266, Blynk, IoT  
-- Real-time water level monitoring using ultrasonic sensors and ESP8266 microcontroller.  
-- Sends alerts to mobile devices via Blynk app for early warnings in flood or tank scenarios.
-
-
-
-### CaptionCast: YouTube Subtitle Speaker  
-- **Tech:** JavaScript, Chrome Extension, TTS  
-- Chrome extension that reads aloud YouTube subtitles using text-to-speech, with mute, sync, and playback speed controls.  
-- Designed for accessibility and multitasking use cases.
-
-
-
-### AutoReel: YouTube Content Generator  
-- **Tech:** Python, Groq API, AI  
-- AI-powered tool that generates video titles, scripts, thumbnail prompts, and viral Twitter threads from a topic.  
-- Assists content creators in end-to-end ideation and cross-platform expansion.
-
-
-
-### ForkLift: Multithreaded Web Server  
-- **Tech:** Java, Sockets, ExecutorService  
-- Implemented single-threaded, multithreaded, and thread pool-based servers to handle concurrent client requests.  
-
+- **CGPA:** 8.6
 
 ---
 
-## Certifications
+# Experience
 
-- **Oracle Cloud Infrastructure 2024 Generative AI Certified Professional**
-- **Microsoft Certified: Azure AI Fundamentals (AI-900)**
-- **Google Cybersecurity Certificate**
-- **GitHub Foundations Certificate**
+## Research Intern — Chennai Mathematical Institute *(Jun 2026 – Present)*
+
+- Developed a lightweight plant disease classification pipeline using MobileNetV3 feature extraction, Jacobi-DMR, and multiple machine learning classifiers optimized for edge devices.
+- Identified image-level data leakage in the original annotation-based dataset split and redesigned the training and validation pipeline using unique Image IDs, ensuring leakage-free evaluation.
+- Built an Android application for on-device disease classification, fine-tuned MobileNetV3 feature extractors, and evaluated multiple classifiers, achieving **86.4% validation accuracy**.
+
+---
+
+## Security Bug Reporter — Devfolio *(Apr 2025)*
+
+- Discovered and responsibly disclosed a logic flaw in Devfolio's password reset workflow that accepted mismatched passwords because of improper client-server validation.
+- Produced a detailed vulnerability report with reproducible steps and a video walkthrough, contributing to the successful resolution of the issue.
 
 ---
 
-## Technical Skills
+# Projects
 
-- **Languages**: Python, Java, C/C++, JavaScript, SQL, HTML/CSS  
-- **Frameworks and Tools**: FastAPI, Flask, Streamlit, ReactJS, Git, Postman, Arduino, Raspberry Pi  
-- **Technologies**: OCR, REST APIs, IoT Systems, Generative AI, Cloud (Azure, AWS)
+## GreenPulse: Smart Garden Monitoring System
+
+**Tech Stack:** ESP32 • MQTT • Node-RED
+
+- Built a distributed IoT monitoring system using five ESP32 nodes to collect soil moisture, temperature, and humidity data in real time.
+- Implemented MQTT-based communication between devices and developed a live Node-RED dashboard with real-time visualization and historical trend analysis.
 
 ---
+
+## Torrender: BitTorrent Client
+
+**Tech Stack:** Python • asyncio • Computer Networking
+
+- Built a lightweight BitTorrent client from scratch implementing bencode parsing, tracker communication, peer discovery, and the complete BitTorrent wire protocol.
+- Implemented concurrent multi-peer downloads using asyncio with efficient piece scheduling and SHA-1 piece verification.
+
+---
+
+## Arcentra: AI Collaborative System Design Workspace
+
+**Tech Stack:** Next.js • Liveblocks • Prisma • PostgreSQL • Gemini AI
+
+- Developed a real-time collaborative architecture design platform featuring CRDT-based multiplayer editing, live presence, and interactive node-based system diagrams.
+- Integrated Google Gemini with background workflows to generate architecture diagrams and export Markdown-based technical specifications directly from natural language prompts.
+
+---
+
+# Certifications
+
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- Google Cybersecurity Certificate
+- GitHub Foundations Certificate
+
+---
+
+# Technical Skills
+
+### Programming Languages
+
+- Python
+- Java
+- C
+- C++
+- SQL
+- HTML/CSS
+- JavaScript
+
+### Frameworks & Libraries
+
+- React
+- Next.js
+- Flask
+- FastAPI
+- Prisma
+
+### Databases & Messaging
+
+- PostgreSQL
+- MongoDB
+- Redis
+- MQTT
+
+### Technologies
+
+- Artificial Intelligence
+- Machine Learning
+- Cybersecurity
+- Data Science
+- Internet of Things (ESP32, Arduino)
+- AWS
+- Node-RED
+- Computer Networking
+- Edge Computing
+- Git
